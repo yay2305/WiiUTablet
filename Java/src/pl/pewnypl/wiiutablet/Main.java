@@ -23,8 +23,8 @@ public class Main extends WebSocketServer {
 	
 	int lastState=0;
 	
-	static int resX = 1920;
-	static int resY = 1080;
+	static int resX = 1280;
+	static int resY = 800;
 	static int resWiiX = 854;
 	static int resWiiY = 480;
 	
